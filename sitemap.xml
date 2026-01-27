@@ -1,71 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>http://www.gurudevacollege.in/</loc>
-    <lastmod>2018-09-12T08:42:07+00:00</lastmod>
+    <loc>https://www.gurudevacollege.in/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/index.html</loc>
-    <lastmod>2018-09-12T08:42:07+00:00</lastmod>
+    <loc>https://www.gurudevacollege.in/index.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.gurudevacollege.in/about-college.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/about-college.html</loc>
-    <lastmod>2018-09-12T08:42:06+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.gurudevacollege.in/about-management.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.64</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/about-management.html</loc>
-    <lastmod>2018-09-12T08:42:06+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.gurudevacollege.in/about.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.64</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/about-principal.html</loc>
-    <lastmod>2018-09-12T08:42:06+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.gurudevacollege.in/contact.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.64</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/about.html</loc>
-    <lastmod>2018-09-12T08:42:05+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.gurudevacollege.in/courses.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.64</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/contact.html</loc>
-    <lastmod>2018-09-12T08:42:07+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.gurudevacollege.in/staff.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.56</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/courses.html</loc>
-    <lastmod>2018-09-12T08:42:07+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.gurudevacollege.in/facilities.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.56</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/teachers.html</loc>
-    <lastmod>2018-09-12T08:42:09+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.gurudevacollege.in/scholarships.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.56</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/non-teaching-staff.html</loc>
-    <lastmod>2018-09-12T08:42:08+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.gurudevacollege.in/gallery.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.56</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/facilities.html</loc>
-    <lastmod>2018-09-12T08:02:01+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.gurudevacollege.in/facilities.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.56</priority>
   </url>
   <url>
-    <loc>http://www.gurudevacollege.in/scholarships.html</loc>
-    <lastmod>2018-09-12T08:42:08+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>http://www.gurudevacollege.in/gallery.html</loc>
-    <lastmod>2018-09-12T08:42:07+00:00</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.gurudevacollege.in/faqs.html</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <priority>0.40</priority>
   </url>
 
 
