@@ -224,10 +224,10 @@
     //   });
 
 
-    // $('#flash-slider-admission').show();
+    $('#flash-slider-admission').hide();
     // admissionSlider.insert(1, "Registration Open for <b>First PUC 2021</b>, <a href='https://forms.gle/Neopj3gb6WmtG6u58' target='_blank'>Click here to fill online enquiry form</a>");
     // admissionSlider.insert(2, "<b> ಪ್ರಥಮ ಪಿಯುಸಿಗೆ 2021</b> ನೋಂದಣಿ ತೆರೆದಿರುತ್ತದೆ, <a href='https://forms.gle/Neopj3gb6WmtG6u58' target='_blank'>ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ನೋಂದಾಯಿಸಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ</a>");
-    admissionSlider.start();
+    // admissionSlider.start();
 
   });
 })(jQuery);
