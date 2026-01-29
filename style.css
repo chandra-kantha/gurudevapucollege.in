@@ -83,8 +83,16 @@
 .header .logo {
   float: left;
   margin-top: 10px;
-  margin-bottom: 25px;
+  margin-bottom: 8px;
 }
+
+.logo img {
+  width: 100%;
+  height: auto;
+  max-width: 100px;
+  object-fit: contain;
+}
+
 .header .header-widget {
   float: right;
   padding: 30px 0;
@@ -2920,4 +2928,81 @@ div.tagline {
 div.contact-info .name {
   color: #777;
   font-size: 15px;
+}
+
+/*=============================
+  Mobile Responsiveness Tweaks
+===============================*/
+@media (max-width: 991.98px) {
+  .header .nav li a {
+    padding: 12px;
+    font-size: 13px;
+  }
+  .header-title h1 {
+    font-size: 22px;
+  }
+  .header-title h5 span,
+  .header-title h6 {
+    font-size: 14px;
+  }
+  .logo img {
+    width: 80px;
+    height: 80px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .home-slider {
+    height: 360px;
+  }
+  .home-slider .single-slider {
+    height: 380px;
+  }
+  /* Prevent horizontal scroll and keep hamburger visible */
+  .header,
+  .header-inner {
+    overflow-x: hidden;
+  }
+  .header-inner .container {
+    max-width: 100%;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .header-inner-row {
+    flex-wrap: nowrap;
+    margin-left: -12px;
+    margin-right: -12px;
+  }
+  .header-inner-row [class*="col-"] {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  /* Logo: prevent stretch, keep aspect ratio */
+  .header .logo img {
+    max-width: 52px;
+    max-height: 52px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+  }
+  /* Hamburger column: no overflow */
+  .header .mobile-menu {
+    min-width: 0;
+    flex-shrink: 0;
+  }
+  .header-title h1 {
+    font-size: 18px;
+    line-height: 1.25;
+  }
+  .header-title h5 span,
+  .header-title h6 {
+    font-size: 13px;
+  }
+  .header .nav li a {
+    padding: 10px 8px;
+    font-size: 12px;
+  }
+  .events .event-content {
+    padding: 15px;
+  }
 }

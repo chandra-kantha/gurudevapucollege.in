@@ -37,8 +37,14 @@
 
     $(".menu").slicknav({
       prependTo: ".mobile-menu",
-      duration: 600,
-      closeOnClick: true
+      duration: 300,
+      closeOnClick: true,
+      beforeOpen: function () {
+        $(".mobile-menu .slicknav_menu").addClass("slicknav_open");
+      },
+      afterClose: function () {
+        $(".mobile-menu .slicknav_menu").removeClass("slicknav_open");
+      }
     });
 
     /*====================================
